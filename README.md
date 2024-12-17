@@ -44,7 +44,7 @@ O modelo conceitual inclui as seguintes entidades principais:
 
 ## 🚀 Como Visualizar o Modelo  
 
-1. Link: [DB Designer- E-commerceBD](https://dbdesigner.page.link/zbK1VTB79DdJbmB69)
+1. Link: [DB Designer - Controle_OficinaMecanica](https://dbdesigner.page.link/zbK1VTB79DdJbmB69)
 3. Explore o modelo conceitual e suas relações.  
 
 ## 📚 Referências  
