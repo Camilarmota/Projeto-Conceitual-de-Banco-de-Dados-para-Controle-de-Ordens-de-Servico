@@ -1,4 +1,4 @@
-# Projeto Conceitual de Banco de Dados de Controle e Gerenciamento na execução de ordens de serviço Para Uma Oficina Mecânica.
+# Projeto Conceitual de Banco de Dados de Controle e Gerenciamento na Execução de Ordens de Serviço Para Uma Oficina Mecânica.
 
 Este repositório apresenta a modelagem conceitual de um banco de dados voltado para o projeto de Controle e Gerenciamento na execução de ordens de serviço para uma Oficina Mecânica, foi desenvolvido como parte do Curso Suzano - Análise de Dados com Power BI na plataforma DIO, sob a orientação da instrutora Juliana Mascarenhas.  
 
