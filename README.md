@@ -3,7 +3,7 @@
 Este repositório apresenta a modelagem conceitual de um banco de dados voltado para o projeto de Controle e Gerenciamento na execução de ordens de serviço para uma Oficina Mecânica, foi desenvolvido como parte do Curso Suzano - Análise de Dados com Power BI na plataforma DIO, sob a orientação da instrutora Juliana Mascarenhas.  
 
 ## 📋 Objetivo:
-Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+Criar um esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
 ## :page_facing_up: Narrativa:
 - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
