@@ -17,7 +17,7 @@ Criar um esquema conceitual para o contexto de oficina com base na narrativa for
 
 ## 🛠️ Ferramentas Utilizadas  
 
-- **Ferramenta de Modelagem**: [DB Designer](https://erd.dbdesigner.net/))  
+- **Ferramenta de Modelagem**: [DB Designer](https://erd.dbdesigner.net/)
 - **Plataforma de Estudo**: [DIO - Digital Innovation One](https://web.dio.me/)  
 
 ## 📖 Estrutura do Banco de Dados  
