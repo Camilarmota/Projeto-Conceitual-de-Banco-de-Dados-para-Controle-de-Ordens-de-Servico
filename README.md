@@ -50,3 +50,7 @@ O modelo conceitual inclui as seguintes entidades principais:
 ## 📚 Referências  
 
 - [DIO - Digital Innovation One](https://web.dio.me/)  
+---
+
+**Desenvolvido por Camila Mota**  
+Se tiver dúvidas ou sugestões, entre em contato!  
